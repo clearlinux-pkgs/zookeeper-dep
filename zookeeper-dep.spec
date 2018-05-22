@@ -1,6 +1,6 @@
 Name     : zookeeper-dep
 Version  : 3.4.11
-Release  : 4
+Release  : 5
 URL      : https://archive.apache.org/dist/zookeeper/zookeeper-3.4.11/zookeeper-3.4.11.tar.gz
 Source0 : https://repo1.maven.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.jar
 Source1 : https://repo1.maven.org/maven2/asm/asm/3.1/asm-3.1.jar
